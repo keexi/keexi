@@ -1,16 +1,16 @@
-## Hi there 👋
+<!-- Inspiration: https://github.com/owl4ce -->
 
-<!--
-**keexi/keexi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning HTML/CSS.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+   <samp><br>
+   Hiya, I'm Alexa!
+   <br>
+   I’m currently learning Ruby, Vanilla Javascript, HTML & CSS.<br>
+   <br>
+   </samp><br>
+<p align="center"><samp> ~
+   <a href="https://www.linkedin.com/in/alexa-yard-869b55233/">linkedin</a>
+   ~ </samp><br><br>
+   
+</p>
+</p>
